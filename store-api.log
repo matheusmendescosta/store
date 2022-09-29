@@ -33,3 +33,6 @@
 2022-09-28T02:35:07.937Z [store-api] info POST /client - {"name":"ivair magalhaes da costa","cpf":"07220625115","phone":"96981449117","email":"ivairmagalhaes@teste.com","address":"Rua das padres, n 555"}
 2022-09-28T02:35:55.633Z [store-api] info POST /client - {"name":"miller mendes da costa","cpf":"01267683236","phone":"969814405632","email":"muller@teste.com","address":"Rua das curitibas, n 555"}
 2022-09-28T02:37:20.262Z [store-api] info POST /client - {"name":"jack stubate","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-09-28T21:30:02.817Z [store-api] info POST /client - {"name":"Matheus Mendes","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-09-28T21:42:08.953Z [store-api] error GET  - clientService.getClients is not a function
+2022-09-28T21:42:41.250Z [store-api] info GET /client
