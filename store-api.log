@@ -1,1 +1,120 @@
 2022-09-27T18:12:10.874Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:10:01.317Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:13:11.274Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:19:06.048Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:21:00.899Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:21:24.708Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:21:59.310Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:22:17.225Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:22:29.383Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:24:56.534Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:25:44.851Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:27:40.514Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:30:18.138Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:30:40.611Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:30:58.640Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:31:42.088Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:32:28.836Z [store-api] error POST  - Todos os campos são obrigatorios
+2022-09-28T01:32:38.570Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T01:54:55.576Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T01:55:57.841Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T01:56:41.027Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T01:57:12.093Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:00:26.014Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:00:54.891Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:03:08.616Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:03:41.563Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:13:27.888Z [store-api] info POST /client - {"name":"matheus","cpf":"02297187289","phone":"96984234927","email":"teste@teste.com","address":"Rua teste, n 1000"}
+2022-09-28T02:26:30.102Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-09-28T02:28:57.746Z [store-api] info POST /client - {"name":"felipe","cpf":"04402906271","phone":"96981440540","email":"felipe@teste.com","address":"Rua das nacoes, n 9999"}
+2022-09-28T02:30:43.750Z [store-api] info POST /client - {"name":"antonia pedroso mendes","cpf":"44055688556","phone":"96984548214","email":"antonia@teste.com","address":"Rua das paranapanema, n 888"}
+2022-09-28T02:31:41.040Z [store-api] info POST /client - {"name":"antonia pedroso mendes","cpf":"44055688556","phone":"96984548214","email":"antonia@teste.com","address":"Rua das paranapanema, n 888"}
+2022-09-28T02:32:47.397Z [store-api] info POST /client - {"name":"ivair pedroso mendes","cpf":"44055688556","phone":"96984548214","email":"antonia@teste.com","address":"Rua das aaaaaaaaaaaa, n 888"}
+2022-09-28T02:35:07.937Z [store-api] info POST /client - {"name":"ivair magalhaes da costa","cpf":"07220625115","phone":"96981449117","email":"ivairmagalhaes@teste.com","address":"Rua das padres, n 555"}
+2022-09-28T02:35:55.633Z [store-api] info POST /client - {"name":"miller mendes da costa","cpf":"01267683236","phone":"969814405632","email":"muller@teste.com","address":"Rua das curitibas, n 555"}
+2022-09-28T02:37:20.262Z [store-api] info POST /client - {"name":"jack stubate","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-09-28T21:30:02.817Z [store-api] info POST /client - {"name":"Matheus Mendes","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-09-28T21:42:08.953Z [store-api] error GET  - clientService.getClients is not a function
+2022-09-28T21:42:41.250Z [store-api] info GET /client
+2022-10-03T22:39:51.642Z [store-api] info POST /client - {"name":"jack stubate","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-03T22:40:25.696Z [store-api] info GET /client
+2022-10-03T22:40:33.146Z [store-api] info GET /client
+2022-10-03T22:51:27.626Z [store-api] error GET  - clientService is not defined
+2022-10-03T22:52:10.733Z [store-api] error GET  - column "clients_id" does not exist
+2022-10-03T22:53:01.317Z [store-api] info GET /client
+2022-10-03T22:53:06.972Z [store-api] info GET /client
+2022-10-03T22:53:10.046Z [store-api] info GET /client
+2022-10-03T22:53:14.762Z [store-api] info GET /client
+2022-10-03T23:17:39.250Z [store-api] info GET /client
+2022-10-03T23:17:43.214Z [store-api] info GET /client
+2022-10-03T23:17:49.670Z [store-api] info GET /client
+2022-10-03T23:18:09.649Z [store-api] info GET /client
+2022-10-03T23:19:31.573Z [store-api] info GET /client
+2022-10-03T23:19:35.263Z [store-api] info GET /client
+2022-10-03T23:28:17.885Z [store-api] info GET /client
+2022-10-04T01:39:14.234Z [store-api] info GET /client
+2022-10-04T01:39:26.248Z [store-api] info POST /client - {"name":"jaoa 2","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:40:01.216Z [store-api] error PUT  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-10-04T01:40:17.896Z [store-api] error PUT  - syntax error at or near "$3"
+2022-10-04T01:41:31.064Z [store-api] error PUT  - Assignment to constant variable.
+2022-10-04T01:50:25.170Z [store-api] error PUT  - Assignment to constant variable.
+2022-10-04T01:54:48.385Z [store-api] error POST  - Assignment to constant variable.
+2022-10-04T01:56:18.895Z [store-api] info POST /client - {"client_id":13,"name":"jonas carvalho","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:56:22.638Z [store-api] info PUT /client - {"client_id":6,"name":"jaoa 2","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:56:27.415Z [store-api] info PUT /client - undefined
+2022-10-04T01:56:33.643Z [store-api] info PUT /client - undefined
+2022-10-04T01:56:36.072Z [store-api] info GET /client
+2022-10-04T01:56:50.092Z [store-api] info GET /client
+2022-10-04T01:57:02.380Z [store-api] info GET /client
+2022-10-04T01:57:10.709Z [store-api] info PUT /client - undefined
+2022-10-04T01:57:15.634Z [store-api] info PUT /client - undefined
+2022-10-04T01:57:21.183Z [store-api] info GET /client
+2022-10-04T01:57:48.066Z [store-api] info GET /client
+2022-10-04T01:57:50.954Z [store-api] info GET /client
+2022-10-04T01:58:04.860Z [store-api] info PUT /client - {"client_id":6,"name":"jaoa e maria ce loko","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:58:09.552Z [store-api] info GET /client
+2022-10-04T15:52:25.630Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:52:44.013Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:55:59.619Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:56:47.058Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:01:47.327Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:02:27.196Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:03:21.314Z [store-api] info POST /client - {"client_id":14,"name":"o resto vale","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T16:04:09.200Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:04:48.463Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:05:33.296Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:05:43.860Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T16:06:05.221Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:07:05.396Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:09:34.904Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:09:55.855Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:13:04.156Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:14:49.684Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:15:01.728Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:07.127Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T16:16:40.787Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:47.309Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:49.306Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:17:02.541Z [store-api] info POST /client - {"client_id":15,"name":"bagoooo","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T16:17:09.473Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:17:33.928Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:20:17.260Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:22:30.872Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:22:50.768Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:23:37.093Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:10:14.580Z [store-api] info POST /client - {"client_id":16,"name":"jair maçonaro","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T17:10:19.160Z [store-api] info GET /client
+2022-10-04T17:10:58.847Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:12:22.932Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:12:51.641Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:13:54.716Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:04.685Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:11.432Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:23.183Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T17:15:48.865Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:19:52.637Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:20:50.338Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:20:54.117Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T17:20:58.459Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:22:45.655Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:25:48.573Z [store-api] error POST  - Cannot read property 'name' of undefined
