@@ -73,3 +73,48 @@
 2022-10-04T01:57:50.954Z [store-api] info GET /client
 2022-10-04T01:58:04.860Z [store-api] info PUT /client - {"client_id":6,"name":"jaoa e maria ce loko","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
 2022-10-04T01:58:09.552Z [store-api] info GET /client
+2022-10-04T15:52:25.630Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:52:44.013Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:55:59.619Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T15:56:47.058Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:01:47.327Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:02:27.196Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:03:21.314Z [store-api] info POST /client - {"client_id":14,"name":"o resto vale","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T16:04:09.200Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:04:48.463Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:05:33.296Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:05:43.860Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T16:06:05.221Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:07:05.396Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:09:34.904Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:09:55.855Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:13:04.156Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:14:49.684Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:15:01.728Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:07.127Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T16:16:40.787Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:47.309Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:16:49.306Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:17:02.541Z [store-api] info POST /client - {"client_id":15,"name":"bagoooo","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T16:17:09.473Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:17:33.928Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:20:17.260Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:22:30.872Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:22:50.768Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T16:23:37.093Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:10:14.580Z [store-api] info POST /client - {"client_id":16,"name":"jair maçonaro","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
+2022-10-04T17:10:19.160Z [store-api] info GET /client
+2022-10-04T17:10:58.847Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:12:22.932Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:12:51.641Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:13:54.716Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:04.685Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:11.432Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:14:23.183Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T17:15:48.865Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:19:52.637Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:20:50.338Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:20:54.117Z [store-api] error POST  - Todos os campos são obrigatorios: nome, cnpj, phone, email, address
+2022-10-04T17:20:58.459Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:22:45.655Z [store-api] error POST  - Cannot read property 'name' of undefined
+2022-10-04T17:25:48.573Z [store-api] error POST  - Cannot read property 'name' of undefined
