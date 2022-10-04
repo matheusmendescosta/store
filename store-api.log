@@ -36,3 +36,40 @@
 2022-09-28T21:30:02.817Z [store-api] info POST /client - {"name":"Matheus Mendes","cpf":"11122233344","phone":"96984234927","email":"teste@matheus·com","address":"Rua RJ, 40"}
 2022-09-28T21:42:08.953Z [store-api] error GET  - clientService.getClients is not a function
 2022-09-28T21:42:41.250Z [store-api] info GET /client
+2022-10-03T22:39:51.642Z [store-api] info POST /client - {"name":"jack stubate","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-03T22:40:25.696Z [store-api] info GET /client
+2022-10-03T22:40:33.146Z [store-api] info GET /client
+2022-10-03T22:51:27.626Z [store-api] error GET  - clientService is not defined
+2022-10-03T22:52:10.733Z [store-api] error GET  - column "clients_id" does not exist
+2022-10-03T22:53:01.317Z [store-api] info GET /client
+2022-10-03T22:53:06.972Z [store-api] info GET /client
+2022-10-03T22:53:10.046Z [store-api] info GET /client
+2022-10-03T22:53:14.762Z [store-api] info GET /client
+2022-10-03T23:17:39.250Z [store-api] info GET /client
+2022-10-03T23:17:43.214Z [store-api] info GET /client
+2022-10-03T23:17:49.670Z [store-api] info GET /client
+2022-10-03T23:18:09.649Z [store-api] info GET /client
+2022-10-03T23:19:31.573Z [store-api] info GET /client
+2022-10-03T23:19:35.263Z [store-api] info GET /client
+2022-10-03T23:28:17.885Z [store-api] info GET /client
+2022-10-04T01:39:14.234Z [store-api] info GET /client
+2022-10-04T01:39:26.248Z [store-api] info POST /client - {"name":"jaoa 2","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:40:01.216Z [store-api] error PUT  - Todos os campos são obrigatorios: nome, cpf, phone, email, address
+2022-10-04T01:40:17.896Z [store-api] error PUT  - syntax error at or near "$3"
+2022-10-04T01:41:31.064Z [store-api] error PUT  - Assignment to constant variable.
+2022-10-04T01:50:25.170Z [store-api] error PUT  - Assignment to constant variable.
+2022-10-04T01:54:48.385Z [store-api] error POST  - Assignment to constant variable.
+2022-10-04T01:56:18.895Z [store-api] info POST /client - {"client_id":13,"name":"jonas carvalho","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:56:22.638Z [store-api] info PUT /client - {"client_id":6,"name":"jaoa 2","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:56:27.415Z [store-api] info PUT /client - undefined
+2022-10-04T01:56:33.643Z [store-api] info PUT /client - undefined
+2022-10-04T01:56:36.072Z [store-api] info GET /client
+2022-10-04T01:56:50.092Z [store-api] info GET /client
+2022-10-04T01:57:02.380Z [store-api] info GET /client
+2022-10-04T01:57:10.709Z [store-api] info PUT /client - undefined
+2022-10-04T01:57:15.634Z [store-api] info PUT /client - undefined
+2022-10-04T01:57:21.183Z [store-api] info GET /client
+2022-10-04T01:57:48.066Z [store-api] info GET /client
+2022-10-04T01:57:50.954Z [store-api] info GET /client
+2022-10-04T01:58:04.860Z [store-api] info PUT /client - {"client_id":6,"name":"jaoa e maria ce loko","cpf":"55566677722","phone":"9688996655","email":"jackstubate@teste.com","address":"Rua das curitibas, n 555"}
+2022-10-04T01:58:09.552Z [store-api] info GET /client
